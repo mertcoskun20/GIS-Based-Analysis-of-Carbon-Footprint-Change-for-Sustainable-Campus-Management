@@ -1,0 +1,21 @@
+In line with my graduation project, I worked on "GIS-Based Monitoring of Carbon Footprint Changes 
+for Sustainable Green Campus Management" in the context of the Paris Climate Agreement and the 
+European Green Consensus, which are popular topics of the last years. The action plans for the carbon 
+neutral goal emphasize the search for measures to enable digital technologies to accelerate and 
+maximize the impact of policies to tackle climate change and protect the environment. In this study, 
+which was carried out in accordance with this plan, the temporal changes of the carbon footprint were 
+monitored through a GIS-based system at the Istanbul Technical University (ITU) Ayazağa Campus. 
+In this context, first of all, the carbon footprint resulting from electricity, natural gas and fuel 
+consumption on the campus were calculated and analyzed with a GIS-based system. The Information 
+System in question is created with the ArcGIS web application, and it is aimed to help decision makers 
+determine the relevant roadmap and effective policies. Carbon Footprint Monitoring and Analysis 
+Information System was established by using Web Map plugin of ArcGIS Pro program. 
+With this project, I took the third place in the Esri – Young Scholars 2022 competition that I 
+participated in.
+
+
+Drive link of my web application:
+https://drive.google.com/file/d/1ZJAYXZOVC2JYYH7NRNx6SgjX1ueIG5m8/view?usp=share_link
+
+My award: 
+https://www.esri.com.tr/tr-tr/hakkinda/haberler/esri-turkiye-genc-bilginler-yarismasi-2022
